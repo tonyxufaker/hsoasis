@@ -233,7 +233,7 @@ header ul.nav li ul li a {
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
 	background: #03b4c8;
-	color: #ffffff !important;
+	color: #000000 !important;
 }
 
 .navbar .nav > .active > a:active,.navbar .nav > .active > a:focus {
