@@ -606,7 +606,8 @@ section.callaction {
   transform: scale(1);
 }
 .features img{
-margin: 10px 0 0 0;
+
+margin: 10px 0 0 0;
 }
 /* page headline
 ==================================== */
@@ -873,9 +874,12 @@ ul.portfolio-categ li a{
 	color:#353535;
 }
 ul.portfolio-categ li.active{
-border: 1px solid #000000;
-background-color: #000000;
-color: #0F0F29 !important;
+
+border: 1px solid #000000;
+
+background-color: #000000;
+
+color: #0F0F29 !important;
 }
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.portfolio-categ li a:focus,ul.portfolio-categ li a:active {
 	text-decoration:none;
@@ -1632,7 +1636,7 @@ padding-top: 3px;
 	li.active  {
 		border: none;
 		overflow: hidden;
-		background: #FFFFFF;
+		background: #03b4c8;
 }
 
 	
